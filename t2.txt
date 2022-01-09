@@ -10,3 +10,5 @@ that was fun
 add line
 
 Def with pump
+
+add new in txt_2
